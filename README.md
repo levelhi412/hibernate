@@ -1,3 +1,3 @@
 # hibernate
 ---
-hibernate的学习记录
+study hibernate
